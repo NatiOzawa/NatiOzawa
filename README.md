@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" width="150" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif?cid=ecf05e47d58b7325dcd47e3f782a697e7aa4d96673009c53&ep=v1_gifs&rid=giphy.gif&ct=g" />
+</div>
+
 ###
 
 <h1 align="center">Hello World! I'm Natália. 🌎</h1>
